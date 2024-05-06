@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"اگر در لود شدن سرور ها به مشکل خودید !!  اخرین نسخه برنامه رو از کانال ما دریافت و دانلود کنید 🙏","dismissable":false,"dismissTxt":"رد","okTxt":"دانلود از تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
